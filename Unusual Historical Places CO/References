@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Reference</title>
+</head>
+<body>
+    <main>
+        <h1>My Reference</h1>
+    </main>
+    <ol>
+        <li>
+            <a href="https://en.wikipedia.org/wiki/Bent%27s_Old_Fort_National_Historic_Site">Bents Old Fort</a>
+        </li>
+        <li>
+            <a href="https://en.wikipedia.org/wiki/Bishop_Castle">Bishops Castle</a>
+        </li>
+        <li>
+            <a href="https://en.wikipedia.org/wiki/Royal_Gorge">Royal Gorge Canyon</a>
+        </li>
+        <li>
+            <a href="https://en.wikipedia.org/wiki/Colorado">Colorado</a>
+        </li>
+    </ol>
+    <a href="index.html">Back to Main Page</a>
+</body>
+</html>
